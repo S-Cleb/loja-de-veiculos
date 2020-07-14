@@ -1,4 +1,4 @@
-# loja-de-veiculos
+# AutoCommerce - Loja de Veículos
 
 Projeto desenvolvido em html5, css3 e javascript com a biblioteca jquery.
 
@@ -24,3 +24,7 @@ Consiste em uma loja de veículos automotivos esportivos, com páginas de vendas
 Ao selecionar o veiculo escolhido você será redirecionado para uma página indivual, onde saberá mais sobre o veículo: Preço, garantias, ano de lançamento e fotos.
 
 ![image](https://user-images.githubusercontent.com/60331806/84337656-7d97ab00-ab70-11ea-803c-f2f9f6031661.png)
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Confira uma demo desse projeto em http://autocommerce.surge.sh
